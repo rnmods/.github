@@ -9,7 +9,7 @@ about: Report a reproducible bug or regression in this library.
 👋 Hi!
 
 🚨 Please read the following carefully before opening a new issue. Your issue probably will
-be closed if it doesn't follow the template. 🚨
+be closed if it doesn't follow the template. If you're asking a question, please use [discussions](https://github.com/rnmods/react-native-document-picker/discussions). 🚨
 
 Before submitting a new issue, please:
 
