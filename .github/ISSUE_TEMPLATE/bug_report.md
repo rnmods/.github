@@ -13,7 +13,7 @@ be closed if it doesn't follow the template. If you're asking a question, please
 
 Before submitting a new issue, please:
 
-- Test using the latest release of the library in a React Native project, as maybe your bug has been already fixed.
+- Test using the latest release of the library, as maybe your bug has been already fixed.
 - Check for possible duplicate issues, with possible answers.
 
 Still ready? Fill the template. 👇
@@ -30,7 +30,7 @@ If you're asking for help, please make it easy for us to help you!
 
 <!--
 - You must provide a **minimal and easy-to-run** reproduction of your issue - [how to create a minimal reproduction?](https://stackoverflow.com/help/mcve). We're a small team of maintainers and do not have time to try reproduce bugs ourselves.
-- Either provide a link to the repo that reproduces the bug or provide your JS code that reproduces the issue and that we can easily use.
+- Provide a link to the repo that reproduces the bug.
 - Provide other samples: error messages / stack traces, screenshots, gifs, as suitable.
 -->
 
