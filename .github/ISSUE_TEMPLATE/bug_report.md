@@ -1,5 +1,5 @@
 ---
-name: "🐛 Bug report"
+name: '🐛 Bug report'
 about: Report a reproducible bug or regression in this library.
 ---
 
@@ -30,7 +30,8 @@ If you're asking for help, please make it easy for us to help you!
 
 <!--
 - You must provide a **minimal and easy-to-run** reproduction of your issue - [how to create a minimal reproduction?](https://stackoverflow.com/help/mcve). We're a small team of maintainers and do not have time to try reproduce bugs ourselves.
-- Provide a link to the repo that reproduces the bug.
+- If the bug involves certain file, please attach the file in the bug report.
+- Provide a code snippet or link to a repo that reproduces the bug.
 - Provide other samples: error messages / stack traces, screenshots, gifs, as suitable.
 -->
 
